@@ -10,7 +10,7 @@ F = ROOT / "fonts"
 BASE = "https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/"
 RAMP = " .`:-=+*cs#%@"
 LATIN = "".join(chr(c) for c in range(32, 127)) + "\u00b7\u2013\u2014"
-HEADINGS = "about stats year languages projects"
+HEADINGS = "about stats year languages activity projects"
 
 def fetch(name, url):
     p = F / name
