@@ -30,6 +30,7 @@ def svg(w, h, body, fonts=(("latin_r", 400), ("latin_b", 700)), label=""):
 
 def write_if_changed(path, text):
     path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
     if path.exists() and path.read_text() == text:
         return False
     path.write_text(text)
