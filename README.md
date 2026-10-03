@@ -7,6 +7,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/xreep?label=Follow&style=social)
 ![Profile README](https://github.com/xreep/xreep/actions/workflows/refresh.yml/badge.svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-xreep.vercel.app-9a6cf4?style=for-the-badge&logo=vercel&logoColor=white)](https://xreep.vercel.app)
+
+🌐 **[xreep.vercel.app](https://xreep.vercel.app)**: my portfolio, with projects, the [Raksha case study](https://xreep.vercel.app/#/case/raksha), a live API lab and an AI you can ask about me.
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
