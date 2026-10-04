@@ -51,8 +51,9 @@ const aditya = {
 ### 🚀 Things I've built
 
 <!--START_SECTION:projects-->
+- **[portfolio](https://github.com/xreep/portfolio)** — Personal portfolio — full-stack developer. Vanilla JS, strict CSP, Vercel serverless API, 10 canvas/DOM games.<br><sub>CSS · ⭐ 0 · updated 2026-10</sub> · [live](https://xreep.vercel.app)
 - **[xreep](https://github.com/xreep/xreep)**<br><sub>Python · ⭐ 0 · updated 2026-10</sub>
-- **[raksha](https://github.com/xreep/raksha)** — Offline AI health guardian for heat waves, floods and smog. On-device risk scoring and emergency SOS.<br><sub>TypeScript · ⭐ 1 · updated 2026-10</sub>
+- **[raksha](https://github.com/xreep/raksha)** — Offline AI health guardian for heat waves, floods and smog. On-device risk scoring and emergency SOS.<br><sub>TypeScript · ⭐ 1 · updated 2026-10</sub> · [live](https://xreep.vercel.app/#/case/raksha)
 - **[Seasonal-Agriculture-Performance-Analysis](https://github.com/xreep/Seasonal-Agriculture-Performance-Analysis)**<br><sub>Jupyter Notebook · ⭐ 1 · updated 2026-09</sub>
 - **[parkease](https://github.com/xreep/parkease)**<br><sub>JavaScript · ⭐ 0 · updated 2026-07</sub>
 - **[disasterlink](https://github.com/xreep/disasterlink)** — Real-time disaster resource coordination platform<br><sub>TypeScript · ⭐ 0 · updated 2026-04</sub>
@@ -65,17 +66,17 @@ const aditya = {
 <!--START_SECTION:waka-->
 ![Profile Views](https://komarev.com/ghpvc/?username=xreep&label=Profile%20Views&color=blue&style=flat)
 
-![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-802.51%20thousand%20lines%20of%20code-blue?style=flat)
+![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.7 MB Used in GitHub's Storage 
+> 📦 13.9 MB Used in GitHub's Storage 
  > 
-> 🏆 213 Contributions in the Year 2026
+> 🏆 230 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > ⭐ 2 Stars Earned 
  > 
@@ -84,37 +85,37 @@ const aditya = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-🌆 Daytime                47 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌃 Evening                52 commits          █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+🌆 Daytime                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌃 Evening                52 commits          ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌙 Night                  42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Tuesday                  34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Tuesday                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Thursday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Sunday                   47 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Saturday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Sunday                   63 commits          ██████████░░░░░░░░░░░░░░░   38.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 03/10/2026 10:27:32 UTC
+ Last Updated on 04/10/2026 11:09:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated by this repository's own GitHub Action, in the style of [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
