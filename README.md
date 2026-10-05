@@ -51,11 +51,11 @@ const aditya = {
 ### 🚀 Things I've built
 
 <!--START_SECTION:projects-->
-- **[portfolio](https://github.com/xreep/portfolio)** — Personal portfolio — full-stack developer. Vanilla JS, strict CSP, Vercel serverless API, 10 canvas/DOM games.<br><sub>CSS · ⭐ 0 · updated 2026-10</sub> · [live](https://xreep.vercel.app)
+- **[Parkease](https://github.com/xreep/Parkease)** — ParkEase — Smart Parking Slot Rental &amp; Availability Platform (Spring Boot + React)<br><sub>Java · ⭐ 0 · updated 2026-10</sub>
 - **[xreep](https://github.com/xreep/xreep)**<br><sub>Python · ⭐ 0 · updated 2026-10</sub>
+- **[portfolio](https://github.com/xreep/portfolio)** — Personal portfolio — full-stack developer. Vanilla JS, strict CSP, Vercel serverless API, 10 canvas/DOM games.<br><sub>CSS · ⭐ 0 · updated 2026-10</sub> · [live](https://xreep.vercel.app)
 - **[raksha](https://github.com/xreep/raksha)** — Offline AI health guardian for heat waves, floods and smog. On-device risk scoring and emergency SOS.<br><sub>TypeScript · ⭐ 1 · updated 2026-10</sub> · [live](https://xreep.vercel.app/#/case/raksha)
 - **[Seasonal-Agriculture-Performance-Analysis](https://github.com/xreep/Seasonal-Agriculture-Performance-Analysis)**<br><sub>Jupyter Notebook · ⭐ 1 · updated 2026-09</sub>
-- **[parkease](https://github.com/xreep/parkease)**<br><sub>JavaScript · ⭐ 0 · updated 2026-07</sub>
 - **[disasterlink](https://github.com/xreep/disasterlink)** — Real-time disaster resource coordination platform<br><sub>TypeScript · ⭐ 0 · updated 2026-04</sub>
 - **[Sanjeevni](https://github.com/xreep/Sanjeevni)**<br><sub>HTML · ⭐ 0 · updated 2026-04</sub>
 <!--END_SECTION:projects-->
@@ -66,13 +66,13 @@ const aditya = {
 <!--START_SECTION:waka-->
 ![Profile Views](https://komarev.com/ghpvc/?username=xreep&label=Profile%20Views&color=blue&style=flat)
 
-![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.00%20thousand%20lines%20of%20code-blue?style=flat)
+![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-843.92%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 13.9 MB Used in GitHub's Storage 
+> 📦 14.2 MB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2026
+> 🏆 245 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,37 +85,37 @@ const aditya = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-🌆 Daytime                47 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌃 Evening                52 commits          ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌙 Night                  42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌞 Morning                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+🌆 Daytime                47 commits          █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+🌃 Evening                60 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌙 Night                  76 commits          █████████░░░░░░░░░░░░░░░░   35.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Thursday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Monday                   65 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Thursday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   63 commits          ██████████░░░░░░░░░░░░░░░   38.18 % 
+Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Sunday                   79 commits          █████████░░░░░░░░░░░░░░░░   36.74 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 11:09:10 UTC
+ Last Updated on 05/10/2026 12:20:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated by this repository's own GitHub Action, in the style of [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
