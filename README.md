@@ -51,8 +51,9 @@ const aditya = {
 ### 🚀 Things I've built
 
 <!--START_SECTION:projects-->
-- **[Parkease](https://github.com/xreep/Parkease)** — ParkEase — Smart Parking Slot Rental &amp; Availability Platform (Spring Boot + React)<br><sub>Java · ⭐ 1 · updated 2026-10</sub> · [live](https://parkease-orpin.vercel.app)
+- **[MazdoorPay](https://github.com/xreep/MazdoorPay)** — Daily wage labour attendance and payment platform for construction contractors<br><sub>JavaScript · ⭐ 0 · updated 2026-10</sub> · [live](https://mazdoorpay.vercel.app)
 - **[xreep](https://github.com/xreep/xreep)**<br><sub>Python · ⭐ 0 · updated 2026-10</sub>
+- **[Parkease](https://github.com/xreep/Parkease)** — ParkEase — Smart Parking Slot Rental &amp; Availability Platform (Spring Boot + React)<br><sub>Java · ⭐ 1 · updated 2026-10</sub> · [live](https://parkease-orpin.vercel.app)
 - **[hopr](https://github.com/xreep/hopr)**<br><sub>JavaScript · ⭐ 0 · updated 2026-10</sub> · [live](https://hopr-one.vercel.app)
 - **[portfolio](https://github.com/xreep/portfolio)** — Personal portfolio — full-stack developer. Vanilla JS, strict CSP, Vercel serverless API, 10 canvas/DOM games.<br><sub>CSS · ⭐ 0 · updated 2026-10</sub> · [live](https://xreep.vercel.app)
 - **[sevaswift](https://github.com/xreep/sevaswift)**<br><sub>TypeScript · ⭐ 1 · updated 2026-10</sub>
@@ -68,17 +69,17 @@ const aditya = {
 <!--START_SECTION:waka-->
 ![Profile Views](https://komarev.com/ghpvc/?username=xreep&label=Profile%20Views&color=blue&style=flat)
 
-![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.07%20million%20lines%20of%20code-blue?style=flat)
+![From Hello World I've Written](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.2 MB Used in GitHub's Storage 
+> 📦 18.8 MB Used in GitHub's Storage 
  > 
-> 🏆 673 Contributions in the Year 2026
+> 🏆 744 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > ⭐ 4 Stars Earned 
  > 
@@ -87,37 +88,37 @@ const aditya = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-🌆 Daytime                138 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌃 Evening                128 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌙 Night                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌞 Morning                128 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌆 Daytime                150 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌃 Evening                128 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌙 Night                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Wednesday                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Thursday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Monday                   93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Thursday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Saturday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   119 commits         ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 24/10/2026 09:36:17 UTC
+ Last Updated on 25/10/2026 09:53:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated by this repository's own GitHub Action, in the style of [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
